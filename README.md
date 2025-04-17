@@ -29,7 +29,7 @@ The server supports **9 blockchain networks** with a total of **329 price feeds*
 - **zkSync**: 16 feeds (e.g., `ZK/USD`, `PEPE/USD`, `TRUMP/USD`)
 - **Celo**: 22 feeds (e.g., `CELO/USD`, `CUSD/USD`, `NGN/USD`)
 
-Additional chains and feeds can be added by updating `feeds.json` with new network configurations and proxy addresses from Chainlink¡¯s Price Feeds documentation.
+Additional chains and feeds can be added by updating `feeds.json` with new network configurations and proxy addresses from Chainlink's Price Feeds documentation.
 
 ## Prerequisites
 
@@ -37,7 +37,7 @@ Additional chains and feeds can be added by updating `feeds.json` with new netwo
 - **npm**: For dependency installation.
 - **Infura API Key**: Obtain a key from the [MetaMask Developer Dashboard](https://infura.io/) with access to supported networks (e.g., Ethereum, Base).
 - **MCP Inspector** (optional): For testing the server locally.
-- **Claude Desktop** (optional): For integration with Anthropic¡¯s Claude interface.
+- **Claude Desktop** (optional): For integration with Anthropic's Claude interface.
 
 ## Installation
 
