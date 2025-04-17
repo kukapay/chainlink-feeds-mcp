@@ -1,0 +1,20 @@
+{
+  "name": "chainlink-feeds-mcp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/kukapay/chainlink-feeds-mcp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "An MCP server that provides real-time access to Chainlink's decentralized on-chain price feeds.",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.5",
+    "https-proxy-agent": "^7.0.6",
+    "zod": "^3.24.3"
+  }
+}
