@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kukapay-chainlink-feeds-mcp-badge.png)](https://mseep.ai/app/kukapay-chainlink-feeds-mcp)
+
 # Chainlink Feeds MCP Server
 
 An MCP server that provides real-time access to Chainlink's decentralized on-chain price feeds, optimized for seamless integration into AI agents and autonomous systems
@@ -96,7 +98,7 @@ The server exposes five tools via the MCP protocol, accessible through **Claude 
 
 - **Natural Language Example (Claude Desktop)**:
   
-  > **Input**: "What¡¯s the latest FIL/ETH price on Ethereum?"
+  > **Input**: "WhatÂ¡Â¯s the latest FIL/ETH price on Ethereum?"
   
   > **Output**: "The latest FIL/ETH price on Ethereum is 0.01234, with 18 decimals, round ID 123456, updated at 2025-04-17 12:00:00 UTC."
 
