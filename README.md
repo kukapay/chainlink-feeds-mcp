@@ -2,6 +2,10 @@
 
 An MCP server that provides real-time access to Chainlink's decentralized on-chain price feeds, optimized for seamless integration into AI agents and autonomous systems
 
+<a href="https://glama.ai/mcp/servers/@kukapay/chainlink-feeds-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/chainlink-feeds-mcp/badge" alt="chainlink-feeds-mcp MCP server" />
+</a>
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green.svg)](https://nodejs.org/)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -96,7 +100,7 @@ The server exposes five tools via the MCP protocol, accessible through **Claude 
 
 - **Natural Language Example (Claude Desktop)**:
   
-  > **Input**: "What¡¯s the latest FIL/ETH price on Ethereum?"
+  > **Input**: "WhatÂ¡Â¯s the latest FIL/ETH price on Ethereum?"
   
   > **Output**: "The latest FIL/ETH price on Ethereum is 0.01234, with 18 decimals, round ID 123456, updated at 2025-04-17 12:00:00 UTC."
 
@@ -180,4 +184,3 @@ The server exposes five tools via the MCP protocol, accessible through **Claude 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
